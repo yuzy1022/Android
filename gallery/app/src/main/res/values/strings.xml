@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">명화</string>
+    <string name="title01">Starry Night</string>
+    <string name="artist01">고흐</string>
+    <string name="desc01">
+        빈센트 반 고흐의 대표작 중 하나로, 그가 고갱과 다툰 뒤 자신의 귀를 자른 사건 이후 생레미의 요양원의 있을 때 그린것이다.
+    </string>
+</resources>

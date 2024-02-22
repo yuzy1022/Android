@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">갤러리</string>
+    <string name="app_name2">명화</string>
+
+    <string name="title01">Starry Night</string>
+    <string name="artist01">고흐</string>
+    <string name="picture01">starry night</string>
+
+    <string name="title02">Monariza</string>
+    <string name="artist02">다빈치</string>
+    <string name="picture02">monariza</string>
+</resources>

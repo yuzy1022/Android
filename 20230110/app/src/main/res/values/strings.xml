@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">20230110</string>
+    <string name="test">리소스에 values디렉토리, string리소스 활용한 글씨</string>
+</resources>
